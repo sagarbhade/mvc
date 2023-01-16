@@ -1,0 +1,15 @@
+S:\.NET\Classroom\Day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+S:\.NET\Classroom\Day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+S:\.NET\Classroom\Day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+S:\.NET\Classroom\Day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+S:\.NET\Classroom\Day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+S:\.NET\Classroom\Day10\Ecommerce\DAL\bin\Debug\net7.0\DAL.deps.json
+S:\.NET\Classroom\Day10\Ecommerce\DAL\bin\Debug\net7.0\DAL.dll
+S:\.NET\Classroom\Day10\Ecommerce\DAL\bin\Debug\net7.0\DAL.pdb
+S:\.NET\Classroom\Day10\Ecommerce\DAL\bin\Debug\net7.0\BOL.dll
+S:\.NET\Classroom\Day10\Ecommerce\DAL\bin\Debug\net7.0\BOL.pdb
+S:\.NET\Classroom\Day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+S:\.NET\Classroom\Day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.dll
+S:\.NET\Classroom\Day10\Ecommerce\DAL\obj\Debug\net7.0\refint\DAL.dll
+S:\.NET\Classroom\Day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.pdb
+S:\.NET\Classroom\Day10\Ecommerce\DAL\obj\Debug\net7.0\ref\DAL.dll

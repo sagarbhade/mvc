@@ -1,0 +1,8 @@
+S:\.NET\Classroom\Day10\Ecommerce\EStore\obj\Debug\net7.0\EStore.csproj.AssemblyReference.cache
+S:\.NET\Classroom\Day10\Ecommerce\EStore\obj\Debug\net7.0\EStore.GeneratedMSBuildEditorConfig.editorconfig
+S:\.NET\Classroom\Day10\Ecommerce\EStore\obj\Debug\net7.0\EStore.AssemblyInfoInputs.cache
+S:\.NET\Classroom\Day10\Ecommerce\EStore\obj\Debug\net7.0\EStore.AssemblyInfo.cs
+S:\.NET\Classroom\Day10\Ecommerce\EStore\obj\Debug\net7.0\EStore.csproj.CoreCompileInputs.cache
+S:\.NET\Classroom\Day10\Ecommerce\EStore\obj\Debug\net7.0\EStore.MvcApplicationPartsAssemblyInfo.cache
+S:\.NET\Classroom\Day10\Ecommerce\EStore\obj\Debug\net7.0\EStore.RazorAssemblyInfo.cache
+S:\.NET\Classroom\Day10\Ecommerce\EStore\obj\Debug\net7.0\EStore.RazorAssemblyInfo.cs

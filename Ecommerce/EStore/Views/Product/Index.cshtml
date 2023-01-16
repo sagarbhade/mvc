@@ -1,0 +1,34 @@
+@using Product;
+@{
+    ViewData["Title"] = "Index Page";
+}
+ <h2>Product Catalog</h2>
+<div class="text-center">
+   
+    @{
+        List<Product> allProducts=(List<Product>)ViewData["products"];
+        <ol>
+            @foreach(Product p in allProducts){
+                <li>@p.id</li>
+            }
+        </ol>
+    }
+</div>
+
+<!-- @{
+    ViewData["Title"] = "Products Gallery Page";
+}
+
+<h1>Catalog</h1>
+<hr/>
+<div class="text-center">
+    @{
+        List<Product> allProducts=(List<Product>)ViewData["catalog"]; 
+        <ol>
+            @foreach(Product flower in allProducts){
+                <li>@flower.Title</li>
+            }
+        </ol>
+    } 
+    <hr/>
+</div> -->

@@ -1,0 +1,17 @@
+S:\.NET\Classroom\Day10\Ecommerce\BLL\bin\Debug\net7.0\BLL.deps.json
+S:\.NET\Classroom\Day10\Ecommerce\BLL\bin\Debug\net7.0\BLL.dll
+S:\.NET\Classroom\Day10\Ecommerce\BLL\bin\Debug\net7.0\BLL.pdb
+S:\.NET\Classroom\Day10\Ecommerce\BLL\bin\Debug\net7.0\BOL.dll
+S:\.NET\Classroom\Day10\Ecommerce\BLL\bin\Debug\net7.0\DAL.dll
+S:\.NET\Classroom\Day10\Ecommerce\BLL\bin\Debug\net7.0\BOL.pdb
+S:\.NET\Classroom\Day10\Ecommerce\BLL\bin\Debug\net7.0\DAL.pdb
+S:\.NET\Classroom\Day10\Ecommerce\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+S:\.NET\Classroom\Day10\Ecommerce\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+S:\.NET\Classroom\Day10\Ecommerce\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+S:\.NET\Classroom\Day10\Ecommerce\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+S:\.NET\Classroom\Day10\Ecommerce\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+S:\.NET\Classroom\Day10\Ecommerce\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+S:\.NET\Classroom\Day10\Ecommerce\BLL\obj\Debug\net7.0\BLL.dll
+S:\.NET\Classroom\Day10\Ecommerce\BLL\obj\Debug\net7.0\refint\BLL.dll
+S:\.NET\Classroom\Day10\Ecommerce\BLL\obj\Debug\net7.0\BLL.pdb
+S:\.NET\Classroom\Day10\Ecommerce\BLL\obj\Debug\net7.0\ref\BLL.dll
